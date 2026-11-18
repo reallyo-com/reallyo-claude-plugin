@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reallyo": {
+      "type": "http",
+      "url": "https://mcp.reallyo.com"
+    }
+  }
+}

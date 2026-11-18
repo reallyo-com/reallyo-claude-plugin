@@ -1,0 +1,25 @@
+{
+  "name": "reallyo",
+  "displayName": "Reallyo Rental Leads",
+  "version": "1.0.0",
+  "description": "Automatically post your rentals to Zillow and Reallyo's other partner rental sites from a chat: create, update and take them down, and renters' inquiries come to you as leads.",
+  "author": {
+    "name": "Reallyo",
+    "email": "hello@reallyo.com",
+    "url": "https://www.reallyo.com"
+  },
+  "homepage": "https://www.reallyo.com/rental-listing-api",
+  "privacyPolicyUrl": "https://www.reallyo.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.reallyo.com/api-terms",
+  "documentationUrl": "https://www.reallyo.com/rental-listing-api",
+  "supportUrl": "https://www.reallyo.com/contact",
+  "repository": "https://github.com/reallyo-com/reallyo-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "rentals",
+    "rental listings",
+    "property management",
+    "real estate",
+    "listing syndication"
+  ]
+}
